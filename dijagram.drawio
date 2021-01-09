@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-09T19:39:21.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="3IRsdjDUDwxtAsyFAS2N" version="14.1.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-01-09T19:39:54.727Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="6C0ej7aEYBf8GzkDdKHu" version="14.1.9" type="github" pages="6">
   <diagram id="EkO1UPS0P1zs4zoCipNW" name="UseCase:Igranje Covjeceneljutise">
-    <mxGraphModel dx="495" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1036" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,7 +69,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="L_JvUY317SHx2kzCPWRO" name="Activity: Igranje Covjeceneljutise">
-    <mxGraphModel dx="495" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1036" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hrEPxVhKOqnE4tnf-zTD-0" />
         <mxCell id="hrEPxVhKOqnE4tnf-zTD-1" parent="hrEPxVhKOqnE4tnf-zTD-0" />
@@ -136,7 +136,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZwajGzsQzo3b_FIZZhlu" name="Activity: Start igre">
-    <mxGraphModel dx="495" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1036" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5EeQ4h-Z2n693Uy9X6VA-0" />
         <mxCell id="5EeQ4h-Z2n693Uy9X6VA-1" parent="5EeQ4h-Z2n693Uy9X6VA-0" />
@@ -191,7 +191,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Activity: Odabir boje" id="D26CZzUW7IEtBNAvQuiv">
-    <mxGraphModel dx="495" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1036" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="d3JxVAWfIFboAoJXZIc6-0" />
         <mxCell id="d3JxVAWfIFboAoJXZIc6-1" parent="d3JxVAWfIFboAoJXZIc6-0" />
@@ -246,7 +246,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Activity: Micanje figure" id="fjj8Gp9vI0_zf2HJ1-If">
-    <mxGraphModel dx="495" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1036" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="mSVQlwnSNKmeRhDkc5FI-0" />
         <mxCell id="mSVQlwnSNKmeRhDkc5FI-1" parent="mSVQlwnSNKmeRhDkc5FI-0" />
@@ -301,7 +301,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Activity:Kraj igre" id="ES9_xjog_Mbw1qM0Pc6H">
-    <mxGraphModel dx="495" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1036" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4tA_K9r1kgb0l5-mDnU_-0" />
         <mxCell id="4tA_K9r1kgb0l5-mDnU_-1" parent="4tA_K9r1kgb0l5-mDnU_-0" />
@@ -324,7 +324,7 @@
         <mxCell id="4tA_K9r1kgb0l5-mDnU_-11" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="4tA_K9r1kgb0l5-mDnU_-1">
           <mxGeometry x="235" y="440" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4tA_K9r1kgb0l5-mDnU_-14" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="4tA_K9r1kgb0l5-mDnU_-1">
+        <mxCell id="4tA_K9r1kgb0l5-mDnU_-14" value="condition" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="4tA_K9r1kgb0l5-mDnU_-1">
           <mxGeometry x="210" y="350" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4tA_K9r1kgb0l5-mDnU_-15" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" source="4tA_K9r1kgb0l5-mDnU_-14" parent="4tA_K9r1kgb0l5-mDnU_-1" target="4tA_K9r1kgb0l5-mDnU_-4">
