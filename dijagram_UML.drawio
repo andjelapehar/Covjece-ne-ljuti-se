@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-22T00:37:47.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="m7ssRW4DHuiuEKmC2QgN" version="14.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-22T00:54:00.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="lAqirKzb-Z7SXfglAty5" version="14.2.4" type="github" pages="3">
   <diagram id="_c5UoDet7S7U7oNL-fHp" name="UML">
     <mxGraphModel dx="274" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -150,7 +150,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WkWae0V2T4ftGJnn2FQq" name="Dijagram">
-    <mxGraphModel dx="399" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1028" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="GAQ1wbNPf6ZKFv2ZUsRi-0" />
         <mxCell id="GAQ1wbNPf6ZKFv2ZUsRi-1" parent="GAQ1wbNPf6ZKFv2ZUsRi-0" />
@@ -161,7 +161,7 @@
           <mxGeometry x="610" y="230" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GAQ1wbNPf6ZKFv2ZUsRi-4" value="«controller»&lt;br&gt;&lt;b&gt;Igra&lt;/b&gt;" style="html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="GAQ1wbNPf6ZKFv2ZUsRi-1" vertex="1">
-          <mxGeometry x="365" y="330" width="110" height="50" as="geometry" />
+          <mxGeometry x="370" y="330" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GAQ1wbNPf6ZKFv2ZUsRi-5" value="«model»&lt;br&gt;&lt;b&gt;Figure&lt;/b&gt;" style="html=1;" parent="GAQ1wbNPf6ZKFv2ZUsRi-1" vertex="1">
           <mxGeometry x="395" y="130" width="110" height="50" as="geometry" />
@@ -169,13 +169,12 @@
         <mxCell id="GAQ1wbNPf6ZKFv2ZUsRi-6" value="«model»&lt;br&gt;&lt;b&gt;Igrac&lt;/b&gt;" style="html=1;" parent="GAQ1wbNPf6ZKFv2ZUsRi-1" vertex="1">
           <mxGeometry x="100" y="230" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GAQ1wbNPf6ZKFv2ZUsRi-7" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;" parent="GAQ1wbNPf6ZKFv2ZUsRi-1" edge="1">
+        <mxCell id="GAQ1wbNPf6ZKFv2ZUsRi-7" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;exitX=0.68;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;" parent="GAQ1wbNPf6ZKFv2ZUsRi-1" edge="1" source="GAQ1wbNPf6ZKFv2ZUsRi-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="465" y="330" as="sourcePoint" />
             <mxPoint x="610.0000000000002" y="255" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="580" y="255" />
-              <mxPoint x="580" y="255" />
+              <mxPoint x="445" y="255" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -221,7 +220,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="O85xi43B0JRecJG0S4Nx" name="Dijagram klasa pogleda Čovječe ne ljuti se">
-    <mxGraphModel dx="301" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1028" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WdMJ5OcjHjvA4ntCFSDY-0" />
         <mxCell id="WdMJ5OcjHjvA4ntCFSDY-1" parent="WdMJ5OcjHjvA4ntCFSDY-0" />
