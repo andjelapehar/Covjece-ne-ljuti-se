@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T22:42:39.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="f7vS-9Uc_iGkcXy8RzXR" version="14.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-27T23:21:15.550Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="ksoVWLdgeyB4a_m7LCNt" version="14.2.7" type="github" pages="3">
   <diagram id="_c5UoDet7S7U7oNL-fHp" name="UML">
-    <mxGraphModel dx="1497" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="688" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -164,7 +164,7 @@
           <mxGeometry y="86" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="5Lk-2WCluk9JZzfyR8hW-104" value="Prikaz" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="710" y="760" width="260" height="238" as="geometry" />
+          <mxGeometry x="710" y="760" width="260" height="212" as="geometry" />
         </mxCell>
         <mxCell id="5Lk-2WCluk9JZzfyR8hW-109" value="+self_prompt_kraj" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5Lk-2WCluk9JZzfyR8hW-104" vertex="1">
           <mxGeometry y="26" width="260" height="22" as="geometry" />
@@ -172,26 +172,23 @@
         <mxCell id="5Lk-2WCluk9JZzfyR8hW-111" value="+ self.igra" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5Lk-2WCluk9JZzfyR8hW-104" vertex="1">
           <mxGeometry y="48" width="260" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5Lk-2WCluk9JZzfyR8hW-108" value=" +self.record_maker" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5Lk-2WCluk9JZzfyR8hW-104" vertex="1">
+        <mxCell id="P3WCugWBcFIrIiBlnVip-2" value="+self.prompted_for_pijun" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5Lk-2WCluk9JZzfyR8hW-104">
           <mxGeometry y="74" width="260" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5Lk-2WCluk9JZzfyR8hW-110" value="+self.record_pokretac" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5Lk-2WCluk9JZzfyR8hW-104" vertex="1">
-          <mxGeometry y="100" width="260" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="5Lk-2WCluk9JZzfyR8hW-106" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="5Lk-2WCluk9JZzfyR8hW-104" vertex="1">
-          <mxGeometry y="126" width="260" height="8" as="geometry" />
+          <mxGeometry y="100" width="260" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="5Lk-2WCluk9JZzfyR8hW-107" value="+Prikaz pocetka" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5Lk-2WCluk9JZzfyR8hW-104" vertex="1">
+        <mxCell id="5Lk-2WCluk9JZzfyR8hW-107" value="+prikaziPocetakIgre()" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5Lk-2WCluk9JZzfyR8hW-104" vertex="1">
+          <mxGeometry y="108" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5Lk-2WCluk9JZzfyR8hW-112" value="+dohvati_korisnikov_pocetni_izbor()" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5Lk-2WCluk9JZzfyR8hW-104" vertex="1">
           <mxGeometry y="134" width="260" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5Lk-2WCluk9JZzfyR8hW-112" value="+unos_imena" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5Lk-2WCluk9JZzfyR8hW-104" vertex="1">
+        <mxCell id="5Lk-2WCluk9JZzfyR8hW-114" value="+odabir_covjek_ili_computer_ime" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5Lk-2WCluk9JZzfyR8hW-104" vertex="1">
           <mxGeometry y="160" width="260" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5Lk-2WCluk9JZzfyR8hW-114" value="+odabir_covjek_ili_computer" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5Lk-2WCluk9JZzfyR8hW-104" vertex="1">
-          <mxGeometry y="186" width="260" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="5Lk-2WCluk9JZzfyR8hW-115" value="+igraj_igru" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5Lk-2WCluk9JZzfyR8hW-104" vertex="1">
-          <mxGeometry y="212" width="260" height="26" as="geometry" />
+          <mxGeometry y="186" width="260" height="26" as="geometry" />
         </mxCell>
         <mxCell id="5Lk-2WCluk9JZzfyR8hW-116" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERone;endFill=1;exitX=0.415;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.411;entryY=1.219;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5Lk-2WCluk9JZzfyR8hW-62" edge="1" target="5Lk-2WCluk9JZzfyR8hW-56">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -227,7 +224,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WkWae0V2T4ftGJnn2FQq" name="Dijagram">
-    <mxGraphModel dx="836" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="413" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="GAQ1wbNPf6ZKFv2ZUsRi-0" />
         <mxCell id="GAQ1wbNPf6ZKFv2ZUsRi-1" parent="GAQ1wbNPf6ZKFv2ZUsRi-0" />
