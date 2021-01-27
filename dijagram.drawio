@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T23:05:20.840Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="ojX2FXGS7urXjZJg8SBE" version="14.2.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-01-27T23:25:51.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="AJ8hwr1DritR5P1puJUW" version="14.2.7" type="github" pages="6">
   <diagram id="EkO1UPS0P1zs4zoCipNW" name="UseCase:Igranje Covjeceneljutise">
-    <mxGraphModel dx="898" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="413" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,7 +69,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="L_JvUY317SHx2kzCPWRO" name="Activity: Igranje Covjeceneljutise">
-    <mxGraphModel dx="898" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="413" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hrEPxVhKOqnE4tnf-zTD-0" />
         <mxCell id="hrEPxVhKOqnE4tnf-zTD-1" parent="hrEPxVhKOqnE4tnf-zTD-0" />
@@ -151,7 +151,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZwajGzsQzo3b_FIZZhlu" name="Activity: Start igre">
-    <mxGraphModel dx="898" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="413" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5EeQ4h-Z2n693Uy9X6VA-0" />
         <mxCell id="5EeQ4h-Z2n693Uy9X6VA-1" parent="5EeQ4h-Z2n693Uy9X6VA-0" />
@@ -223,7 +223,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Activity: Odabir boje" id="D26CZzUW7IEtBNAvQuiv">
-    <mxGraphModel dx="898" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="413" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="d3JxVAWfIFboAoJXZIc6-0" />
         <mxCell id="d3JxVAWfIFboAoJXZIc6-1" parent="d3JxVAWfIFboAoJXZIc6-0" />
@@ -235,16 +235,16 @@
             <mxPoint x="250" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d3JxVAWfIFboAoJXZIc6-4" value="Biranje boje" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="d3JxVAWfIFboAoJXZIc6-1" vertex="1">
+        <mxCell id="d3JxVAWfIFboAoJXZIc6-4" value="Odabir dostupne boje" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="d3JxVAWfIFboAoJXZIc6-1" vertex="1">
           <mxGeometry x="190" y="140" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d3JxVAWfIFboAoJXZIc6-5" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="d3JxVAWfIFboAoJXZIc6-1" source="d3JxVAWfIFboAoJXZIc6-4" edge="1" target="1kisVKX1D5M9dD37eltB-5">
+        <mxCell id="d3JxVAWfIFboAoJXZIc6-5" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="d3JxVAWfIFboAoJXZIc6-1" source="d3JxVAWfIFboAoJXZIc6-4" edge="1" target="d3JxVAWfIFboAoJXZIc6-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="250" as="targetPoint" />
+            <mxPoint x="250" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="d3JxVAWfIFboAoJXZIc6-9" value="Nastavak na igru" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#f8cecc;strokeColor=#b85450;" parent="d3JxVAWfIFboAoJXZIc6-1" vertex="1">
-          <mxGeometry x="190" y="410" width="120" height="40" as="geometry" />
+          <mxGeometry x="190" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d3JxVAWfIFboAoJXZIc6-10" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="d3JxVAWfIFboAoJXZIc6-1" source="d3JxVAWfIFboAoJXZIc6-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -255,23 +255,11 @@
         <mxCell id="d3JxVAWfIFboAoJXZIc6-11" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="d3JxVAWfIFboAoJXZIc6-1" vertex="1">
           <mxGeometry x="235" y="480" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1kisVKX1D5M9dD37eltB-5" value="Unesite ime boje" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="d3JxVAWfIFboAoJXZIc6-1" vertex="1">
-          <mxGeometry x="190" y="270" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1kisVKX1D5M9dD37eltB-6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" parent="d3JxVAWfIFboAoJXZIc6-1" source="1kisVKX1D5M9dD37eltB-5" target="d3JxVAWfIFboAoJXZIc6-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="210" as="targetPoint" />
-            <mxPoint x="260" y="260" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="js0J5I7U6_PCaguMl7go-0" value="#2.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="d3JxVAWfIFboAoJXZIc6-1" vertex="1">
           <mxGeometry x="150" y="150" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="js0J5I7U6_PCaguMl7go-1" value="#2.2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="d3JxVAWfIFboAoJXZIc6-1" vertex="1">
-          <mxGeometry x="150" y="340" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="MkPXHVZsXJJaUWqzTlws-0" value="#2.3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="d3JxVAWfIFboAoJXZIc6-1" vertex="1">
-          <mxGeometry x="140" y="420" width="40" height="20" as="geometry" />
+          <mxGeometry x="130" y="320" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -334,7 +322,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Activity:Kraj igre" id="ES9_xjog_Mbw1qM0Pc6H">
-    <mxGraphModel dx="898" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="413" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4tA_K9r1kgb0l5-mDnU_-0" />
         <mxCell id="4tA_K9r1kgb0l5-mDnU_-1" parent="4tA_K9r1kgb0l5-mDnU_-0" />
