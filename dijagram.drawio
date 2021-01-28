@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T22:34:05.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="vgLUeVXAD83nlW0FxIcM" version="14.2.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-01-28T22:37:10.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="L-GY5xCfgBYChhnnB7w8" version="14.2.7" type="github" pages="6">
   <diagram id="EkO1UPS0P1zs4zoCipNW" name="UseCase:Igranje Covjeceneljutise">
     <mxGraphModel dx="898" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -308,7 +308,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VKIx5OL8yNBtjH40uwVi-0" value="Unesite ime za igrača" style="rounded=1;whiteSpace=wrap;html=1;arcSize=32;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="d3JxVAWfIFboAoJXZIc6-1">
-          <mxGeometry x="220" y="584" width="120" height="40" as="geometry" />
+          <mxGeometry x="230" y="585" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VKIx5OL8yNBtjH40uwVi-1" value="Izaberite boju" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="d3JxVAWfIFboAoJXZIc6-1">
           <mxGeometry x="220" y="675" width="120" height="40" as="geometry" />
@@ -329,7 +329,7 @@
         <mxCell id="47Sy6hZ6qJlC3fQ8Hp7U-2" value="for i in range (4)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="d3JxVAWfIFboAoJXZIc6-1">
           <mxGeometry x="160" y="370" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="63E45P5irDAKJHuENVOV-0" value="&amp;nbsp;Unos ispravan" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="d3JxVAWfIFboAoJXZIc6-1">
+        <mxCell id="63E45P5irDAKJHuENVOV-0" value="1- Unos ispravan" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="d3JxVAWfIFboAoJXZIc6-1">
           <mxGeometry x="-0.8071" y="21" relative="1" as="geometry">
             <mxPoint x="269.41" y="584" as="targetPoint" />
             <mxPoint x="269" y="540" as="sourcePoint" />
@@ -362,6 +362,17 @@
               <mxPoint x="279" y="721" />
               <mxPoint x="279" y="721" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9ujkwbmkUCgtL1-DxdZ-0" value="0- Unos ispravan" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="d3JxVAWfIFboAoJXZIc6-1" source="yfsdcTJUqTLkznaJ4ogz-1" target="d3JxVAWfIFboAoJXZIc6-11">
+          <mxGeometry x="-0.5583" y="-90" relative="1" as="geometry">
+            <mxPoint x="220" y="770" as="targetPoint" />
+            <mxPoint x="209.41" y="530" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="210" y="524" />
+              <mxPoint x="210" y="769" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
@@ -446,7 +457,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4tA_K9r1kgb0l5-mDnU_-11" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="4tA_K9r1kgb0l5-mDnU_-1" vertex="1">
-          <mxGeometry x="235" y="440" width="30" height="30" as="geometry" />
+          <mxGeometry x="235" y="360" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4tA_K9r1kgb0l5-mDnU_-17" value="Kraj" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#f8cecc;strokeColor=#b85450;" parent="4tA_K9r1kgb0l5-mDnU_-1" vertex="1">
           <mxGeometry x="190" y="250" width="120" height="40" as="geometry" />
