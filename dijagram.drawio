@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T22:29:27.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="cA3gPs81fnj3cvxDRyip" version="14.2.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-01-28T22:33:20.098Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="fnjSy86JfvyGyfBTxFqY" version="14.2.7" type="github" pages="6">
   <diagram id="EkO1UPS0P1zs4zoCipNW" name="UseCase:Igranje Covjeceneljutise">
-    <mxGraphModel dx="425" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="898" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -368,7 +368,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Activity: Micanje figure" id="fjj8Gp9vI0_zf2HJ1-If">
-    <mxGraphModel dx="425" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="898" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="mSVQlwnSNKmeRhDkc5FI-0" />
         <mxCell id="mSVQlwnSNKmeRhDkc5FI-1" parent="mSVQlwnSNKmeRhDkc5FI-0" />
@@ -414,8 +414,8 @@
         </mxCell>
         <mxCell id="w27Bw3pKrFT2wLLb7VYe-4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" parent="mSVQlwnSNKmeRhDkc5FI-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="249.5" y="320" as="targetPoint" />
-            <mxPoint x="249.5" y="280" as="sourcePoint" />
+            <mxPoint x="249.5" y="310" as="targetPoint" />
+            <mxPoint x="249.5" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
