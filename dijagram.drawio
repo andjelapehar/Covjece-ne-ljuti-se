@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T14:29:07.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="XbdaryYIyHw1R5FBTPwQ" version="14.2.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-02-04T14:34:23.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="jpAYlq75P-BCG91wcEn_" version="14.2.9" type="github" pages="6">
   <diagram id="EkO1UPS0P1zs4zoCipNW" name="UseCase:Igranje Covjeceneljutise">
     <mxGraphModel dx="898" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -451,7 +451,7 @@
         <mxCell id="3DJVACBQ3_Y2VkQOyzgs-2" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;direction=south;" vertex="1" parent="mSVQlwnSNKmeRhDkc5FI-1">
           <mxGeometry x="221.25" y="985" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3DJVACBQ3_Y2VkQOyzgs-8" value="Odabir ako ima vise dopustenih pijuna za micanje" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="mSVQlwnSNKmeRhDkc5FI-1">
+        <mxCell id="3DJVACBQ3_Y2VkQOyzgs-8" value="Odabir ako ima vise dopustenih pijuna za micanje" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="mSVQlwnSNKmeRhDkc5FI-1">
           <mxGeometry x="177.5" y="410" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b-x2M1_fkUvQBQFoWUMa-0" value="Napravi korak" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="mSVQlwnSNKmeRhDkc5FI-1">
