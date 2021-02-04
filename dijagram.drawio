@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T14:28:07.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="_JrQeinNZj9Kv9KcQNuG" version="14.2.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-02-04T14:29:07.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="XbdaryYIyHw1R5FBTPwQ" version="14.2.9" type="github" pages="6">
   <diagram id="EkO1UPS0P1zs4zoCipNW" name="UseCase:Igranje Covjeceneljutise">
     <mxGraphModel dx="898" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZwajGzsQzo3b_FIZZhlu" name="Activity: Start igre">
-    <mxGraphModel dx="436" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="898" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5EeQ4h-Z2n693Uy9X6VA-0" />
         <mxCell id="5EeQ4h-Z2n693Uy9X6VA-1" parent="5EeQ4h-Z2n693Uy9X6VA-0" />
@@ -241,7 +241,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Activity: Tip igrača" id="D26CZzUW7IEtBNAvQuiv">
-    <mxGraphModel dx="436" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="898" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="d3JxVAWfIFboAoJXZIc6-0" />
         <mxCell id="d3JxVAWfIFboAoJXZIc6-1" parent="d3JxVAWfIFboAoJXZIc6-0" />
@@ -305,7 +305,7 @@
         <mxCell id="VKIx5OL8yNBtjH40uwVi-0" value="Unesite ime za igrača" style="rounded=1;whiteSpace=wrap;html=1;arcSize=32;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="d3JxVAWfIFboAoJXZIc6-1" vertex="1">
           <mxGeometry x="230" y="585" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VKIx5OL8yNBtjH40uwVi-1" value="Izaberite dostupnu boju" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#f8cecc;strokeColor=#b85450;" parent="d3JxVAWfIFboAoJXZIc6-1" vertex="1">
+        <mxCell id="VKIx5OL8yNBtjH40uwVi-1" value="Izaberite dostupnu boju" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="d3JxVAWfIFboAoJXZIc6-1" vertex="1">
           <mxGeometry x="220" y="675" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VKIx5OL8yNBtjH40uwVi-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="d3JxVAWfIFboAoJXZIc6-1" edge="1">
@@ -397,7 +397,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Activity: Micanje figure" id="fjj8Gp9vI0_zf2HJ1-If">
-    <mxGraphModel dx="513" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1056" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="mSVQlwnSNKmeRhDkc5FI-0" />
         <mxCell id="mSVQlwnSNKmeRhDkc5FI-1" parent="mSVQlwnSNKmeRhDkc5FI-0" />
@@ -571,7 +571,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Activity:Kraj igre" id="ES9_xjog_Mbw1qM0Pc6H">
-    <mxGraphModel dx="513" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1056" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4tA_K9r1kgb0l5-mDnU_-0" />
         <mxCell id="4tA_K9r1kgb0l5-mDnU_-1" parent="4tA_K9r1kgb0l5-mDnU_-0" />
